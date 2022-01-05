@@ -1,8 +1,8 @@
-name: 'Annotate Action'
+name: 'Annotate Action (Test Fork)'
 branding:
   icon: 'edit-3'
   color: 'yellow'
-author: 'Guillaume Grossetie'
+author: 'Guillaume Grossetie (forked by @cmsj)'
 description: 'Creates annotations from a JSON file'
 inputs:
   repo-token:
